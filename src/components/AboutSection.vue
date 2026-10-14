@@ -27,7 +27,7 @@ import { ref } from 'vue'
 // DATA Teks About (Sangat mudah diedit di sini dalam Bahasa Inggris yang santai/humanoid)
 const aboutData = ref({
   paragraphs: [
-    "Hi there! I'm <span class='text-purple-400 font-bold'>Ozzi Ardhiyanto</span>, an Informatics graduate from Universitas Bhayangkara Jakarta Raya[cite: 8]. I have a deep passion for mobile app development (especially Flutter), IT support, and smooth operational workflows. I genuinely enjoy building clean, functional apps using modern state management like Clean Architecture, BLoC, and Hive.",
+    "Hi there! I'm <span class='text-purple-400 font-bold'>Ozzi Ardhiyanto</span>, an Informatics graduate from Universitas Bhayangkara Jakarta Raya. I have a deep passion for mobile app development (especially Flutter), IT support, and smooth operational workflows. I genuinely enjoy building clean, functional apps using modern state management like Clean Architecture, BLoC, and Hive.",
     "Throughout my journey, I've loved blending technical engineering with hands-on operational support—ranging from troubleshooting hardware and organizing sales data to crafting responsive UI layouts for mobile projects. To me, creating systems that just work reliably and smoothly is what makes this field so exciting."
   ],
   callout: "I'm actively open to professional opportunities in IT support, Flutter mobile development, frontend engineering, or administrative roles where I can keep growing and deliver real, meaningful impact!"
